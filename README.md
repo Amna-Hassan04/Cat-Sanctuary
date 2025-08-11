@@ -1,6 +1,6 @@
 # 🐱 Cat Sanctuary: A First-Person Horror Experience
 
-**Uncover the dark truth behind a haunted feline haven.** This first-person exploration Unity game thrusts you into an abandoned cat sanctuary, where the malevolent spirit of its former caretaker lurks. Your only escape lies in collecting cursed body parts and unraveling the sinister mystery hidden within.
+**Uncover the dark truth behind a haunted feline haven.** This first-person exploration Unity game thrusts you into an abandoned cat sanctuary, where the malevolent spirit of its former caretaker hide . Your only escape lies in collecting cursed body parts and unraveling the sinister mystery hidden within.
 
 > _"Not all sanctuaries bring peace..."_
 ---
@@ -30,14 +30,14 @@
 
 Story:
 
-A Person looking for a new job to get away from home finally gets a job at a cat sanctuary. The Cat sanctuary hides its dark past behind the dark veil of night.  Strange Events occur as the night arrives. Now, it is up to you to save the cats by destroying the cursed demon that haunts that sanctuary by collecting the leftover body parts of the previous care taker and by burying them in the town graveyard. 
+A person who is desperate to get away from home finally gets a job at a cat sanctuary. The Cat sanctuary hides its dark past behind the dark veil of night. Strange Events occur as the night arrives. Now, it is up to you to save the cats by destroying the cursed demon that haunts the sanctuary by collecting the leftover body parts of the previous care taker and by burying them in the town graveyard. 
 
-Step into the paws of an unnamed investigator, drawn to the unsettling silence of a once-thriving cat sanctuary. What begins as curiosity quickly descends into terror as you discover the grounds are haunted by a vengeful entity. Your survival hinges on a desperate quest:
+Step into the paws of an unnamed investigator, drawn to the unsettling silence of a once-thriving cat sanctuary. What begins as curiosity quickly descends into terror as you discover the grounds are haunted by a grudge-bearing entity. Your survival depends on a desperate quest:
 
-- **Explore** the chilling, atmospheric environment.
+- **Explore** the chilling atmosphere.
 - **Locate** the cursed, fragmented remains of the former caretaker.
 - **Evade** cunning demonic traps and terrifying jumpscares.
-- **Uncover** the dark secrets to escape the nightmare.
+- **Uncover** the dark secrets of the sanctuary.
 
 Ready to face your fears? Play "Cat Sanctuary" directly on [**itch.io**](https://rawal-sky.itch.io/cat-sanctuary).
 
@@ -46,10 +46,10 @@ Ready to face your fears? Play "Cat Sanctuary" directly on [**itch.io**](https:/
 
 Experience "Cat Sanctuary"'s immersive horror through:
 
-- ✅ **Immersive First-Person Horror Mechanics:** Get up close and personal with fear.
+- ✅ **Immersive First-Person Horror Mechanics:** Get really close with  fear.
 - ✅ **Dynamic Real-time Sound Triggers:** Every creak and groan enhances the suspense.
-- ✅ **Haunting Atmospheric Lighting & Fog:** Creates a truly eerie and unpredictable environment.
-- ✅ **Collectibles-Based Narrative Progression:** Unravel the lore by discovering hidden secrets.
+- ✅ **Haunting Atmospheric Lighting & Fog:** Creates a truly strange and frightening and unpredictable environment.
+- ✅ **Collectibles-Based Narrative Progression:** Unravel the story by discovering hidden secrets.
 - ✅ **Escape-Driven Win Condition:** Your ultimate goal is to survive and break free.
 - ✅ **Seamless Web Accessibility:** Easily playable directly on [itch.io](https://rawal-sky.itch.io/cat-sanctuary).
 
@@ -83,18 +83,6 @@ Want to explore the sanctuary or contribute to its development? Follow these ste
     * Once the project is open in the Unity Editor, simply press the **Play** button to start the game!
 
 
-
-
-## 🌟 Contributors
-
-
-<a href="https://github.com/Amna-Hassan04/Cat-Sanctuary/graphs/contributors">
-
-  <img src="https://contrib.rocks/image?repo=Amna-Hassan04/Cat-Sanctuary&v=1" />
-
-</a>
-
-
 ## 🤝 Contributing
 
 We welcome contributions! To contribute:
@@ -106,6 +94,16 @@ We welcome contributions! To contribute:
 5. Open a pull request
 
 Make sure to follow good commit practices and explain your changes well.
+
+
+## 🌟 Contributors
+
+
+<a href="https://github.com/Amna-Hassan04/Cat-Sanctuary/graphs/contributors">
+
+  <img src="https://contrib.rocks/image?repo=Amna-Hassan04/Cat-Sanctuary&v=1" />
+
+</a>
 
 ---
 
@@ -120,7 +118,7 @@ A special thanks to the following resources and inspirations:
 ---
 
 ## Contribution Guidelines  
-We welcome contributions! Please read our [Code of Conduct](https://github.com/Amna-Hassan04/Serenity-Guide?tab=coc-ov-file#contributor-code-of-conduct) to participate in this project. By contributing, you agree to abide by its terms.
+We welcome contributions! Please read our [Code of Conduct](https://github.com/Amna-Hassan04/Serenity-Guide?tab=coc-ov-file#contributor-code-of-conduct) to contribute to this project. By contributing, you agree to abide by its terms.
 
 
 ## 📄 License
